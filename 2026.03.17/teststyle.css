@@ -1,7 +1,7 @@
 body{background-color: #fefefe;
     font-family: 'Times New roman', serif;
-    font-style: 16px;
-    font-weight: 3000;
+    font-style: 30px;
+    font-weight: 300;
     letter-spacing: 0.1em;
     overflow-x: hidden;
     position: relative;
@@ -10,10 +10,16 @@ body{background-color: #fefefe;
 h1 {
     color: #85ad45;
 }
+h3 {
+    color: #444444;
+    font-family: sans-serif;
+    font-style: 16px;
+    font-weight: 300
+}
 pre {    
     font-family: 'Times New roman', serif;
     font-style: 16px;
-    font-weight: 3000;
+    font-weight: 300;
     letter-spacing: 0.1em;
     overflow-x: hidden;
     position: relative;
