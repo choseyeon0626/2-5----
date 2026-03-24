@@ -1,0 +1,21 @@
+body{background-color: #fefefe;
+    font-family: 'Times New roman', serif;
+    font-style: 16px;
+    font-weight: 3000;
+    letter-spacing: 0.1em;
+    overflow-x: hidden;
+    position: relative;
+    text-align: center;
+}
+h1 {
+    color: #85ad45;
+}
+pre {    
+    font-family: 'Times New roman', serif;
+    font-style: 16px;
+    font-weight: 3000;
+    letter-spacing: 0.1em;
+    overflow-x: hidden;
+    position: relative;
+    text-align: center;
+}
